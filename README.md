@@ -15,3 +15,7 @@ This repository introduces some papers for manual design of lightweight neural n
 5. MobileNetV3: [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244)
 6. Squeezenet: [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360)  
 7. Xception: [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
+8. DenseNet: [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)  
+9. Octave Convolution: [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://export.arxiv.org/abs/1904.05049)  
+10. GhostNet: [GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907)
+11. MUXConv: [MUXConv: Information Multiplexing in Convolutional Neural Networks](https://arxiv.org/abs/2003.13880v2)
